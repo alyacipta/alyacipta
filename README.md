@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [bit.ly/CV_AlyaCipta
 ](bit.ly/CV_AlyaCipta)
 
-- ⚡**"I don't Know, But i'll Find Out"**
+- ⚡ **"I don't Know, But i'll Find Out"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
