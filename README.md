@@ -9,9 +9,10 @@
 
 - 📫 How to reach me **alyafebrianacipta@student.telkomuniversity.ac.id**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kjSnymPSrAu7iofvW25F7ZD_nEW_JCwp2HO3qBZk1JI/edit?usp=sharing](https://docs.google.com/document/d/1kjSnymPSrAu7iofvW25F7ZD_nEW_JCwp2HO3qBZk1JI/edit?usp=sharing)
+- 📄 Know about my experiences [bit.ly/CV_AlyaCipta
+](bit.ly/CV_AlyaCipta)
 
-- ⚡ Fun fact **"I don't Know, But i'll Find Out"**
+- ⚡**"I don't Know, But i'll Find Out"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
