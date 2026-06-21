@@ -369,10 +369,6 @@ Actively building offensive and defensive cybersecurity skills through practical
 
 </div>
 
----
-
-# Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
