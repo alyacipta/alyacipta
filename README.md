@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alyacipta/alyacipta/main/assets/banner.png" width="100%" alt="Alya Cipta Banner"/>
+<img src="https://github.com/alyacipta/alyacipta/blob/main/assets/Professional%20Linkedin%20Banner.jpg" width="100%" alt="Alya Cipta Banner"/>
 
 </p> 
   
