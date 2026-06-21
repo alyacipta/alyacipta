@@ -429,11 +429,3 @@ Open To:
 </div>
 
 ---
-
-<div align="center">
-
-### *Engineering secure systems and building technology that scales.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3d0c11,40:1e0508,80:581c87,100:701a75"/>
-
-</div>
