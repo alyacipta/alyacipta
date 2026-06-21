@@ -98,25 +98,18 @@ This mindset drives how I approach engineering, research, leadership, and lifelo
 
 ---
 
-# Research & Engineering Expertise
+# 🧬 Core Expertise
 
-| Domain                 | Level        | Details                                                                                             |
-| ---------------------- | ------------ | --------------------------------------------------------------------------------------------------- |
-| AI Research            | Intermediate | AI-powered educational systems, industrial intelligence platforms, semantic search, LLM integration |
-| Agentic AI             | Beginner     | Multi-agent workflows, evaluator-optimizer architectures, AI-assisted learning systems              |
-| Cybersecurity Research | Intermediate | Penetration testing methodologies, vulnerability assessment, IoT security exploration               |
-| Penetration Testing    | Intermediate | Reconnaissance, enumeration, attack surface analysis, security laboratory projects                  |
-| Embedded Systems       | Intermediate | Arduino, ESP32, IoT development, sensor integration, hardware-software communication                |
-| Networking             | Beginner     | WAN design, routing protocols, network segmentation, infrastructure planning                        |
-| Cloud Infrastructure   | Beginner     | Multi-node architectures, Vagrant, Ansible, Linux administration                                    |
-| Data & Analytics       | Beginner     | Pandas, data processing, industrial intelligence analysis                                           |
-| Technical Research     | Intermediate | Literature review, scientific writing, proposal development, multidisciplinary collaboration        |
-| System Design          | Beginner     | Secure system architecture, scalability planning, infrastructure deployment                         |
-
+| Domain | Level | Focus |
+| :--- | :--- | :--- |
+| Infrastructure Automation | Advanced | Multi-node IaC systems, provisioning workflows |
+| Penetration Testing | Intermediate | Linux exploitation, network analysis |
+| Bug Bounty | Foundational | OWASP Top 10, recon, fuzzing |
+| AI Deployment | Intermediate | ML pipelines, inference systems |
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 <details>
 <summary><b>Multi-Node 3-Tier Esports Player Analytics System</b></summary>
@@ -344,15 +337,15 @@ Actively building offensive and defensive cybersecurity skills through practical
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyacipta&show_icons=true&count_private=true&hide_border=true&title_color=f5f5f4&text_color=d6d3d1&icon_color=F37626&bg_color=0d1117"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=alyacipta&show_icons=true&count_private=true&hide_border=true&title_color=f5f5f4&text_color=d6d3d1&icon_color=F37626&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyacipta&layout=compact&hide_border=true&title_color=f5f5f4&text_color=d6d3d1&bg_color=0d1117"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyacipta&layout=compact&hide_border=true&title_color=f5f5f4&text_color=d6d3d1&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alyacipta&hide_border=true&background=0d1117&ring=F37626&fire=F9A03F&stroke=52525b&currStreakLabel=d6d3d1&sideNums=d6d3d1&sideLabels=d6d3d1&dates=d6d3d1&currStreakNum=d6d3d1"/>
+<img height="320em" src="https://streak-stats.demolab.com?user=alyacipta&hide_border=true&background=0d1117&ring=F37626&fire=F9A03F&stroke=52525b&currStreakLabel=d6d3d1&sideNums=d6d3d1&sideLabels=d6d3d1&dates=d6d3d1&currStreakNum=d6d3d1"/>
 
 </div>
 
