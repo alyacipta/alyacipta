@@ -82,8 +82,9 @@ This mindset drives how I approach engineering, research, leadership, and lifelo
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/Hardware_Architecture-181824?style=for-the-badge&logo=micro-star-international&logoColor=f97316)
 
-### 🗄 Backend & Enterprise Databases
+### 🗄️ Backend, Databases & Data Engineering
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/openLCA-3E9A46?style=for-the-badge&logo=diagram&logoColor=white)
 
 ### ⚙ Cloud, DevOps & Virtualization Infrastructure
 ![](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
@@ -203,23 +204,19 @@ Focused on bridging the gap between machine learning experimentation and product
 
 # Experience
 
-### Founder & Spearhead — Women in Tech Tel-U
+### 👥 Founder & Spearhead — Women in Tech Tel-U
+**June 2026 — Present**
 
-**Present**
+> **Phase 1 Mission:** Cultivating a high-trust, growth-oriented culture where technological engineering is perceived as an engaging, innovative pursuit rather than a high-pressure burden. We focus 100% on accelerating members' technical confidence and forging unbreakable personal bonds behind closed doors.
 
-Leading initiatives that empower students to explore technology, leadership, innovation, and community engagement.
+**Scope of Work & Strategic Execution:**
+* **Community Engineering:** Engineering a supportive network designed to eliminate isolation. When female engineers face imposter syndrome or academic fatigue in male-dominated lab environments, they receive immediate emotional support and strategic navigation from their tech sisters.
+* **Overcoming the Confidence Gap:** Designing a launchpad that empowers members to transition from hiding their code to confidently publishing their GitHub repositories and broadcasting technical storytelling on LinkedIn—stepping into the spotlight to own their brilliant ideas.
+* **Democratizing Insider Access:** Leveraging institutional and research networks to bridge the privilege gap, granting qualified members direct opportunities to co-author and get published in research journal papers.
+* **Strategic Ecosystem Building:** Establishing technology inclusion programs, organizing technical workshops, and driving collaborative pipelines to scale female engineering presence within the university network.
 
-**Scope of Work**
-
-- Building student technology communities
-- Organizing learning initiatives
-- Creating collaboration opportunities
-- Driving technology inclusion programs
-- Establishing strategic partnerships
-
-**Skills**
-
-`Leadership` `Community Building` `Project Management` `Public Speaking`
+**Skills:**
+`Leadership` `Community Building` `Project Management` `Public Speaking` `Strategic Networking` `Technical Mentorship`
 
 ---
 
