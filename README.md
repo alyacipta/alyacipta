@@ -220,23 +220,22 @@ Focused on bridging the gap between machine learning experimentation and product
 
 ---
 
-### Cybersecurity Research & Practice
+### 🔬 Research Assistant Intern — Industrial Intelligence Systems
 
-**Independent Learning**
+**Badan Riset dan Inovasi Nasional (BRIN)**
 
-Actively building offensive and defensive cybersecurity skills through practical laboratories and security challenges.
+Orchestrating the development lifecycle of AI and LLM-based systems to digitalize national infrastructure architectures.
 
 **Scope of Work**
 
-- Penetration testing labs
-- Linux security
-- Vulnerability assessment
-- Security documentation
-- Bug bounty methodology
+- Architecting AI & LLM-based dashboard prototypes integrated with relational and graph databases.
+- Automated integration of semantic search and product categorization data pipelines.
+- Synchronizing global/local IPR patent registries and standardizing international trade codes (UNCOMTRADE HS Codes).
+- Building tactical data analysis frameworks and basic econometric modeling via Python.
+- Managing technical documentation for computational estimation modules (CAPEX/OPEX and economic multipliers).
 
-**Skills**
-
-`Cybersecurity` `Linux` `Web Security` `Reconnaissance`
+**Skills:**
+`AI Engineering` `Data Engineering` `Python` `Pandas` `NetworkX` `Relational Databases` `Graph Databases` `Econometric Modeling`
 
 ---
 
