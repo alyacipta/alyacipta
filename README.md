@@ -204,7 +204,7 @@ Focused on bridging the gap between machine learning experimentation and product
 
 # Experience
 
-### 👥 Founder & Spearhead — Women in Tech Tel-U
+### 👥 Founder & Spearhead — [Women in Tech Tel-U](https://github.com/telu-she-codes)
 **May 2026 — Present**
 
 > **Phase 1 Mission:** Cultivating a high-trust, growth-oriented culture where technological engineering is perceived as an engaging, innovative pursuit rather than a high-pressure burden. We focus 100% on accelerating members' technical confidence and forging unbreakable personal bonds behind closed doors.
